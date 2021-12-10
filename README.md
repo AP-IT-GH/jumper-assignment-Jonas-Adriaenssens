@@ -10,10 +10,11 @@ These enemies and coins will charge at the agent at variable speeds and on varia
 
 A small red block representing the agents stands on the far left of a track.
 
-There is an invisable  GameObject called "ObjectSpawner" situated at the right side of the track.
+There is an invisible  GameObject called "ObjectSpawner" situated at the right side of the track.
 It contains 2 GameObjects:
 - An Enemy object (Blue elongated cube)
-- A Points object (Yellow cylinder)
+- A Points object (Yellow cylinder)  
+
 This GameObject will be responsible for spawning the enemies and points.
 
 At the end of the track you can find the EndLine object. When an enemy or point collides with this, they will dissapear.
