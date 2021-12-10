@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.10.0"
+    },
+    "Jumper": {
+        "checkpoints": [
+            {
+                "steps": 2499997,
+                "file_path": "results\\test3\\Jumper\\Jumper-2499997.onnx",
+                "reward": null,
+                "creation_time": 1638804645.9246306,
+                "auxillary_file_paths": [
+                    "results\\test3\\Jumper\\Jumper-2499997.pt"
+                ]
+            },
+            {
+                "steps": 2999998,
+                "file_path": "results\\test3\\Jumper\\Jumper-2999998.onnx",
+                "reward": null,
+                "creation_time": 1638806303.4217818,
+                "auxillary_file_paths": [
+                    "results\\test3\\Jumper\\Jumper-2999998.pt"
+                ]
+            },
+            {
+                "steps": 3012036,
+                "file_path": "results\\test3\\Jumper\\Jumper-3012036.onnx",
+                "reward": null,
+                "creation_time": 1638806345.5312,
+                "auxillary_file_paths": [
+                    "results\\test3\\Jumper\\Jumper-3012036.pt"
+                ]
+            },
+            {
+                "steps": 3046677,
+                "file_path": "results\\test3\\Jumper\\Jumper-3046677.onnx",
+                "reward": null,
+                "creation_time": 1638958652.4689019,
+                "auxillary_file_paths": [
+                    "results\\test3\\Jumper\\Jumper-3046677.pt"
+                ]
+            },
+            {
+                "steps": 3067721,
+                "file_path": "results\\test3\\Jumper\\Jumper-3067721.onnx",
+                "reward": null,
+                "creation_time": 1638958775.033039,
+                "auxillary_file_paths": [
+                    "results\\test3\\Jumper\\Jumper-3067721.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3067721,
+            "file_path": "results\\test3\\Jumper.onnx",
+            "reward": null,
+            "creation_time": 1638958775.033039,
+            "auxillary_file_paths": [
+                "results\\test3\\Jumper\\Jumper-3067721.pt"
+            ]
+        }
+    }
+}
